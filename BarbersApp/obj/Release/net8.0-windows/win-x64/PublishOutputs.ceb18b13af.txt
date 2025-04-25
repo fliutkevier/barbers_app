@@ -1,0 +1,9 @@
+C:\code\PeluKing\publish\BarbersApp.pdb
+C:\code\PeluKing\publish\BarbersApp.dll.config
+C:\code\PeluKing\publish\D3DCompiler_47_cor3.dll
+C:\code\PeluKing\publish\PenImc_cor3.dll
+C:\code\PeluKing\publish\PresentationNative_cor3.dll
+C:\code\PeluKing\publish\vcruntime140_cor3.dll
+C:\code\PeluKing\publish\wpfgfx_cor3.dll
+C:\code\PeluKing\publish\Microsoft.Data.SqlClient.SNI.dll
+C:\code\PeluKing\publish\BarbersApp.exe

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\code\PeluKing\barbers_app\BarbersApp\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="UI\AddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AddWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AddService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ClientsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\DeletedEntities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\DetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\HistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\RegisterWorkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ServicesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\UpdPaymentMethodForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\WorkersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
